@@ -55,8 +55,6 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── data/                  # Raw & cleaned datasets
 ├── notebooks/             # Jupyter notebooks
 ├── images/                # Visualizations exported from notebooks
-├── requirements.txt       # Dependencies
-├── LICENSE                # License file (MIT)
 ├── README.md              # Project overview (this file)
 ```
 
