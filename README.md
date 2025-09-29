@@ -1,5 +1,6 @@
 # Airbnb-Paris-Analysis
-![Stunning Paris Airbnb](images/Air.jpg)
+![Stunning Paris Airbnb](Air.jpg)
+
 
 
 # 🏠 Airbnb Paris Analysis
