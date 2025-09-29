@@ -1,5 +1,5 @@
 # Airbnb-Paris-Analysis
-![Stunning Paris Airbnb]([https://media.timeout.com/images/106180468/image.jpg](https://wallpapercave.com/wp/wp10784400.jpg))
+![Stunning Paris Airbnb]([Air.jpg))
 
 # 🏠 Airbnb Paris Analysis
 
